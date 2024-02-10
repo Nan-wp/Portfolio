@@ -8,7 +8,7 @@ export default function Project() {
   return (
     <div
       id="project"
-      className=" bg-[#D8D3CD]  grid col-span-12 p-46 pb-40 justify-center"
+      className=" bg-[#DCD7C9]  grid col-span-12 p-46 pb-40 justify-center"
     >
       <div
         className="text-[32px] pb-10 p-4 text-[#393B44] font-bold text-center"

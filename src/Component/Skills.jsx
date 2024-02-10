@@ -16,7 +16,7 @@ export default function Skills() {
     AOS.init();
   }, []);
   return (
-    <div id="skill" className="bg-[#D8D3CD] p-36 grid col-span-12 p-46">
+    <div id="skill" className="bg-[#A27B5C] p-36 grid col-span-12 p-46">
       <div
         className="text-[32px] p-10 text-center text-[#393B44] font-bold"
         data-aos="zoom-out-up"

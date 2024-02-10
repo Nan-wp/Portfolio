@@ -8,16 +8,16 @@ export default function Home() {
 
   return (
     <div id="landing" className=" grid col-span-12 ">
-      <div className="h-full bg-[#D8D3CD]  flex flex-col justify-center text-center">
+      <div className="h-full bg-[#3F4E4F]  flex flex-col justify-center text-center">
         <div
-          className="px-64 pt-64 text-[56px] bg-gradient-to-r from-slate-500 to-slate-800 bg-clip-text text-transparent"
+          className="px-64 pt-64 text-[56px] bg-gradient-to-r from-neutral-300 to-stone-400 bg-clip-text text-transparent"
           data-aos="fade-up"
           data-aos-duration="3000"
         >
           I’m <b>Wiphaphorn</b> Phoemphoklang Frontend Web Developer
         </div>
         <div
-          className="pb-64 px-96 pt-16 text-[26px] bg-gradient-to-r from-slate-500 to-slate-800 bg-clip-text text-transparent"
+          className="pb-64 px-96 pt-16 text-[26px] bg-gradient-to-r from-slate-300 to-slate-500 bg-clip-text text-transparent font-semibold"
           data-aos="fade-down"
           data-aos-easing="linear"
           data-aos-duration="1500"
