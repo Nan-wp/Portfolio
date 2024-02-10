@@ -18,10 +18,10 @@ export default function Skills() {
   return (
     <div id="skill" className="bg-[#A27B5C] p-36 grid col-span-12 p-46">
       <div
-        className="text-[32px] p-10 text-center text-[#393B44] font-bold"
+        className="text-[32px] p-10 text-center bg-gradient-to-r from-slate-900 to-slate-700 bg-clip-text text-transparent font-bold"
         data-aos="zoom-out-up"
       >
-        SKILLS
+        Let's see What I can do?
       </div>
       <div className=" flex flex-col text-[#000000]">
         <div className="flex justify-between text-center">

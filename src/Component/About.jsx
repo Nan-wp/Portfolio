@@ -4,8 +4,8 @@ import "aos/dist/aos.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import {
+  faAddressCard,
   faEnvelopeOpen,
-  faNewspaper,
 } from "@fortawesome/free-regular-svg-icons";
 export default function About() {
   useEffect(() => {
@@ -73,7 +73,7 @@ export default function About() {
                     rel="noreferrer"
                   >
                     <FontAwesomeIcon
-                      icon={faNewspaper}
+                      icon={faAddressCard}
                       className="w-[30px] h-[30px]"
                     />
                   </a>
