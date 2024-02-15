@@ -23,7 +23,7 @@ export default function Skills() {
       >
         Let's see What I can do?
       </div>
-      <div className=" flex flex-col text-[#000000]">
+      <div className=" flex flex-col text-[#000000] pt-10">
         <div className="flex justify-between text-center">
           <div>
             <FontAwesomeIcon
