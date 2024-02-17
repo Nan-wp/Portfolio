@@ -12,7 +12,7 @@ import Project from './Component/Project';
 function App() {
 
   return (
-    <div> 
+    <div className='overflow-hidden'> 
       <Navbar />
       <Home />
       <About/>
