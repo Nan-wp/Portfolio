@@ -14,7 +14,7 @@ export default function Home() {
           data-aos="fade-up"
           data-aos-duration="3000"
         >
-          I’m <b>Wiphaphorn</b> Phoemphoklang Frontend Web Developer
+          I’m <b>Wiphaphorn</b> Phoemphoklang Software Developer
         </div>
         <div
           className="pb-64 px-96 pt-16 text-[26px] bg-gradient-to-r from-slate-300 to-slate-500 bg-clip-text text-transparent font-semibold"
@@ -23,7 +23,7 @@ export default function Home() {
           data-aos-duration="1500"
         >
           "I am someone who enjoys self-development and constantly seeks to
-          learn new things and aspiring to specialize as a Frontend Developer."
+          learn new things and aspiring to specialize as a Software Developer."
         </div>
       </div>
     </div>

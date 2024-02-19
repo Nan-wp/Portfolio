@@ -127,9 +127,12 @@ export default function Project() {
               and workout time. Collaborated with a team of 4 members to plan and operate for project accomplishment.
             </p>
             <div className="card-actions justify-end">
+              <a href="https://imovetracking.vercel.app/"  target="_blank"
+                rel="noreferrer">
               <button className="btn btn-primary bg-[#E0ECE4] hover:bg-[#A3D2CA]">
                 DEMO
               </button>
+              </a>
               <a
                 href="https://github.com/Nan-wp/Project-I.Move"
                 target="_blank"
