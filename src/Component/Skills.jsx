@@ -16,9 +16,9 @@ export default function Skills() {
     AOS.init();
   }, []);
   return (
-    <div id="skill" className="bg-[#A27B5C] p-36 grid col-span-12 p-46">
+    <div id="skill" className="bg-[#252B48] p-36 grid col-span-12 p-46">
       <div
-        className="text-[32px] p-10 text-center bg-gradient-to-r from-slate-900 to-slate-700 bg-clip-text text-transparent font-bold"
+        className="text-[32px] p-10 text-center bg-gradient-to-r from-neutral-300 to-stone-400 bg-clip-text text-transparent font-bold text:shadow-2xl"
         data-aos="zoom-out-up"
       >
         Let's see What I can do?
@@ -30,29 +30,29 @@ export default function Skills() {
               icon={faHtml5}
               className="w-[80px] h-[80px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>HTML</p>
+            
           </div>
           <div>
             <FontAwesomeIcon
               icon={faCss3Alt}
               className="w-[80px] h-[80px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>CSS</p>
+           
           </div>
           <div>
             <img
               src="./img/tailwind.svg"
               alt="tailwind"
-              className="w-[120px] h-[120px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
+              className="w-[110px] h-[110px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>TAILWIND</p>
+            
           </div>
           <div>
             <FontAwesomeIcon
               icon={faJs}
               className="w-[80px] h-[80px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>JAVASCRIPT</p>
+            
           </div>
         </div>
         <div className="flex justify-between pt-10 text-center">
@@ -60,30 +60,30 @@ export default function Skills() {
             <img
               src="./img/react.svg"
               alt="react"
-              className="w-[120px] h-[120px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
+              className="w-[110px] h-[110px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>REACT</p>
+           
           </div>
           <div>
             <FontAwesomeIcon
               icon={faNode}
               className="w-[80px] h-[80px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>NODE.JS</p>
+            
           </div>
           <div>
             <FontAwesomeIcon
               icon={faGithub}
               className="w-[80px] h-[80px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>GITHUB</p>
+            
           </div>
           <div>
             <FontAwesomeIcon
               icon={faFigma}
               className="w-[80px] h-[80px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>FIGMA</p>
+            
           </div>
         </div>
         <div className="flex justify-between pt-10 text-center">
@@ -91,9 +91,9 @@ export default function Skills() {
             <img
               src="./img/mongodb.svg"
               alt="mongodb"
-              className="w-[120px] h-[120px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
+              className="w-[110px] h-[110px] p-4 bg-[#E0ECE4] hover:bg-[#797A7E] rounded-full"
             />
-            <p>MONGO DB</p>
+            
           </div>
         </div>
       </div>

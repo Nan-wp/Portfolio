@@ -8,10 +8,10 @@ export default function Project() {
   return (
     <div
       id="project"
-      className=" bg-[#DCD7C9]  grid col-span-12 p-46 pb-40 justify-center"
+      className=" bg-[#252B48]  grid col-span-12 p-46 pb-40 justify-center"
     >
       <div
-        className="text-[32px] pb-10 pt-10 text-[#393B44] font-bold text-center"
+        className="text-[32px] pb-10 pt-10 bg-gradient-to-r from-neutral-300 to-stone-400 bg-clip-text text-transparent font-bold text-center"
         data-aos="zoom-out-up"
       >
         PROJECT

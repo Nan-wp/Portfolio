@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <div id="landing" className=" grid col-span-12 ">
-      <div className="h-full bg-[#3F4E4F]  flex flex-col justify-center text-center">
+      <div className="h-full bg-[#252B48]  flex flex-col justify-center text-center">
         <div
           className="px-64 pt-64 text-[56px] bg-gradient-to-r from-neutral-300 to-stone-400 bg-clip-text text-transparent"
           data-aos="fade-up"
